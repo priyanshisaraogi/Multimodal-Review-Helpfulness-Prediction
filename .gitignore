@@ -1,3 +1,6 @@
 venv
 cleaned_test_data.csv
 cleaned_train_data.csv
+cc.en.300.bin.gz.part
+filtered_sampled_reviews.csv
+processed_images.csv
